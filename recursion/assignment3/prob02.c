@@ -1,3 +1,5 @@
+//vs에서 돌리면 돌아감.
+
 #include <stdio.h>
 #include <stdbool.h>
 
